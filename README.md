@@ -31,14 +31,14 @@ Designing dashboards for business decision-making
 
 Comparing time-based performance metrics
 
-📂 Repository Contents
-
-Screenshots of dashboards (MTD, SPLY, Overall Dashboard)
-
-Power BI Project File (.pbix) (if included)
-
 🚀 Tools Used
 
 Power BI
 
 Microsoft Excel (Data Source).
+
+📌 Author
+👤 [Anurag pal]
+
+🌐 linkedin.com/in/anurag-pal-7a722a127
+📧 Email: [Palanurag44@gmail.com]
