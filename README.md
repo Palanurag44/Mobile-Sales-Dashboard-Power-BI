@@ -1,8 +1,6 @@
 # Mobile-Sales-Dashboard-Power-BI
 📊 Mobile Sales Dashboard – Power BI
 
-This repository contains an interactive Power BI dashboard I created as part of my learning journey in Data Analytics and Visualization. The project was guided by Skill Course – Satish Dhanwale sir.
-
 🔹 Project Overview
 
 The Mobile Sales Dashboard provides insights into:
